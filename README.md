@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sharadgup&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sharadgup&theme=dracula)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
